@@ -33,16 +33,10 @@ This project was built from scratch as part of a hands-on learning journey, with
 ---
 
 Getting Started
-1. Clone the Repository
-   git clone https://github.com/<your-username>/reflectify-backend.git
-   cd reflectify-backend
-2. Install Dependencies
-   npm install
-3. Create a .env File
-   PORT=3001
-   MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/reflectify?retryWrites=true&w=majority
-4. Start the Server
-   npm run dev
+1. Clone the Repository : git clone https://github.com/<your-username>/reflectify-backend.git, cd reflectify-backend
+2. Install Dependencies : npm install
+3. Create a .env File : PORT=3001, MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/reflectify?retryWrites=true&w=majority
+4. Start the Server: npm run dev
 
 🚀 Coming Soon
 	•	🌈 Frontend app using React.js
